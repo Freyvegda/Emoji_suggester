@@ -1,4 +1,4 @@
-Python Emoji Suggester:
+_***Python Emoji Suggester:***_
 
 Uses Long term and Short Term analysis for suggesting emoji.
 
