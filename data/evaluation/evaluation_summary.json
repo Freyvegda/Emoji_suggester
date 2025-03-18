@@ -1,0 +1,43 @@
+{
+  "overall_accuracy": 0.918238993710692,
+  "accuracy_by_sentiment": {
+    "negative": 0.8055555555555555,
+    "neutral": 1.0,
+    "positive": 1.0,
+    "slightly_negative": 0.0,
+    "slightly_positive": 0.0,
+    "very_positive": 1.0
+  },
+  "confusion_matrix": [
+    [
+      54,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      63,
+      0,
+      0
+    ],
+    [
+      0,
+      10,
+      29,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "positive",
+    "neutral",
+    "negative",
+    "mixed"
+  ]
+}

@@ -1,0 +1,117 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Emoji Suggestion Evaluation Report</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2, h3 { color: #333; }
+                .metric { margin-bottom: 10px; }
+                .metric-value { font-weight: bold; }
+                .container { display: flex; flex-wrap: wrap; }
+                .chart { margin: 10px; max-width: 600px; }
+                img { max-width: 100%; border: 1px solid #ddd; }
+                table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+            </style>
+        </head>
+        <body>
+            <h1>Emoji Suggestion Evaluation Report</h1>
+            
+            <h2>Summary Metrics</h2>
+            <div class="metric">
+                <span>Overall Accuracy: </span>
+                <span class="metric-value">0.92</span>
+            </div>
+            
+            <h3>Accuracy by Sentiment Category</h3>
+            <table>
+                <tr>
+                    <th>Sentiment Category</th>
+                    <th>Accuracy</th>
+                </tr>
+        
+                <tr>
+                    <td>negative</td>
+                    <td>0.81</td>
+                </tr>
+            
+                <tr>
+                    <td>neutral</td>
+                    <td>1.00</td>
+                </tr>
+            
+                <tr>
+                    <td>positive</td>
+                    <td>1.00</td>
+                </tr>
+            
+                <tr>
+                    <td>slightly_negative</td>
+                    <td>0.00</td>
+                </tr>
+            
+                <tr>
+                    <td>slightly_positive</td>
+                    <td>0.00</td>
+                </tr>
+            
+                <tr>
+                    <td>very_positive</td>
+                    <td>1.00</td>
+                </tr>
+            
+            </table>
+            
+            <h2>Visualizations</h2>
+            <div class="container">
+                <div class="chart">
+                    <h3>Sentiment Distribution</h3>
+                    <img src="sentiment_distribution.png" alt="Sentiment Distribution">
+                </div>
+                
+                <div class="chart">
+                    <h3>Accuracy by Sentiment</h3>
+                    <img src="accuracy_by_sentiment.png" alt="Accuracy by Sentiment">
+                </div>
+                
+                <div class="chart">
+                    <h3>Confusion Matrix</h3>
+                    <img src="confusion_matrix.png" alt="Confusion Matrix">
+                </div>
+                
+                <div class="chart">
+                    <h3>Emoji-Sentiment Distribution</h3>
+                    <img src="emoji_sentiment_distribution.png" alt="Emoji-Sentiment Distribution">
+                </div>
+                
+                <div class="chart">
+                    <h3>Short-term vs. Long-term Sentiment</h3>
+                    <img src="sentiment_comparison.png" alt="Sentiment Comparison">
+                </div>
+                
+                <div class="chart">
+                    <h3>Match Percentage Distribution</h3>
+                    <img src="match_percentage_distribution.png" alt="Match Percentage Distribution">
+                </div>
+            </div>
+            
+            <h2>Conclusion</h2>
+            <p>
+                This report evaluates the performance of the emoji suggestion algorithm based on sentiment analysis.
+                The overall accuracy of {results["overall_accuracy"]:.2f} indicates how well the suggested emojis match
+                the expected sentiment categories.
+            </p>
+            
+            <p>
+                Areas for improvement:
+                <ul>
+                    <li>Fine-tune sentiment thresholds for better categorization</li>
+                    <li>Expand emoji categories for more nuanced suggestions</li>
+                    <li>Adjust the weighting between short-term and long-term sentiment</li>
+                </ul>
+            </p>
+        </body>
+        </html>
+        

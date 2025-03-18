@@ -1,0 +1,36 @@
+{
+  "positive_words": [
+    {"word": "awesome", "score": 0.9},
+    {"word": "fantastic", "score": 0.8},
+    {"word": "brilliant", "score": 0.8},
+    {"word": "excellent", "score": 0.7},
+    {"word": "wonderful", "score": 0.7},
+    {"word": "great", "score": 0.6},
+    {"word": "nice", "score": 0.5},
+    {"word": "good", "score": 0.4},
+    {"word": "cool", "score": 0.4},
+    {"word": "fine", "score": 0.2}
+  ],
+  "negative_words": [
+    {"word": "terrible", "score": -0.9},
+    {"word": "awful", "score": -0.8},
+    {"word": "horrible", "score": -0.8},
+    {"word": "dreadful", "score": -0.7},
+    {"word": "bad", "score": -0.6},
+    {"word": "poor", "score": -0.5},
+    {"word": "disappointing", "score": -0.5},
+    {"word": "annoying", "score": -0.4},
+    {"word": "frustrating", "score": -0.6},
+    {"word": "sad", "score": -0.4}
+  ],
+  "emoji_indicators": {
+    "😊": 0.7,
+    "😢": -0.6,
+    "😡": -0.8,
+    "😂": 0.6,
+    "👍": 0.5,
+    "👎": -0.5,
+    "❤️": 0.8,
+    "💔": -0.7
+  }
+}

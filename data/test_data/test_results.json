@@ -1,0 +1,479 @@
+[
+  {
+    "conversation_id": 0,
+    "message_id": 1,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.09983333333333333,
+    "suggested_emojis": "\ud83d\ude1f \ud83d\ude22 \ud83d\ude13",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 0,
+    "message_id": 3,
+    "message": "We need to fix these issues.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": -0.059899999999999995,
+    "suggested_emojis": "\ud83d\udcca \ud83d\udd04 \ud83d\udcad",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 0,
+    "message_id": 5,
+    "message": "The quality is below our standards.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": -0.039933333333333335,
+    "suggested_emojis": "\ud83d\ude10 \ud83e\udd28 \ud83d\udc40",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 1,
+    "message_id": 1,
+    "message": "I love this idea!",
+    "short_term_sentiment": 0.6696,
+    "long_term_sentiment": 0.42586666666666667,
+    "suggested_emojis": "\u2728 \ud83d\ude00 \ud83d\ude0a",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 1,
+    "message_id": 3,
+    "message": "I'm looking forward to our next meeting!",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.25552,
+    "suggested_emojis": "\ud83d\ude44 \ud83d\udcdd \ud83e\uddd0",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 1,
+    "message_id": 5,
+    "message": "Great job on the project!",
+    "short_term_sentiment": 0.6588,
+    "long_term_sentiment": 0.3899466666666667,
+    "suggested_emojis": "\ud83d\ude0e \ud83e\udd29 \ud83d\ude01",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 2,
+    "message_id": 1,
+    "message": "I'm so happy for you!",
+    "short_term_sentiment": 0.6468,
+    "long_term_sentiment": 0.4144666666666667,
+    "suggested_emojis": "\ud83c\udf89 \ud83d\ude0e \ud83d\ude01",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 2,
+    "message_id": 3,
+    "message": "I'm looking forward to our next meeting!",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.24868,
+    "suggested_emojis": "\ud83e\udd28 \ud83d\udccc \ud83d\ude36",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 3,
+    "message_id": 1,
+    "message": "The quality is below our standards.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\udcca \u23f1\ufe0f \ud83d\udd04",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 3,
+    "message_id": 3,
+    "message": "This approach has serious problems.",
+    "short_term_sentiment": -0.4588,
+    "long_term_sentiment": -0.12888,
+    "suggested_emojis": "\ud83d\ude14 \ud83d\udc94 \ud83d\ude28",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 3,
+    "message_id": 5,
+    "message": "I'm frustrated with the lack of progress.",
+    "short_term_sentiment": -0.4404,
+    "long_term_sentiment": -0.23272,
+    "suggested_emojis": "\ud83d\udcdd \ud83d\udc4e \ud83e\udd37",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 3,
+    "message_id": 7,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.27531428571428573,
+    "suggested_emojis": "\ud83d\udc4e \ud83d\ude29 \ud83d\udd14",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 4,
+    "message_id": 1,
+    "message": "I'm looking forward to our next meeting!",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\udd14 \ud83d\ude11 \ud83d\udd0d",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 4,
+    "message_id": 3,
+    "message": "You're doing amazing work!",
+    "short_term_sentiment": 0.6239,
+    "long_term_sentiment": 0.30419999999999997,
+    "suggested_emojis": "\ud83d\ude0e \ud83e\udd70 \ud83d\ude04",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 5,
+    "message_id": 1,
+    "message": "Great job on the project!",
+    "short_term_sentiment": 0.6588,
+    "long_term_sentiment": 0.4204666666666667,
+    "suggested_emojis": "\ud83c\udf08 \u2728 \ud83d\ude18",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 5,
+    "message_id": 3,
+    "message": "I'm really impressed with your progress!",
+    "short_term_sentiment": 0.7569,
+    "long_term_sentiment": 0.55504,
+    "suggested_emojis": "\ud83d\udc4d \ud83d\ude0d \ud83d\udc4f",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 5,
+    "message_id": 5,
+    "message": "Your help has been invaluable!",
+    "short_term_sentiment": 0.4574,
+    "long_term_sentiment": 0.5224933333333334,
+    "suggested_emojis": "\ud83d\udcaa \ud83e\udd70 \ud83c\udf08",
+    "sentiment_category": "positive"
+  },
+  {
+    "conversation_id": 6,
+    "message_id": 1,
+    "message": "This isn't what I expected.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83e\udd28 \u23f1\ufe0f \ud83d\ude36",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 6,
+    "message_id": 3,
+    "message": "This creates more problems than it solves.",
+    "short_term_sentiment": 0.0534,
+    "long_term_sentiment": 0.076,
+    "suggested_emojis": "\ud83d\ude11 \ud83d\udcbb \ud83d\ude44",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 6,
+    "message_id": 5,
+    "message": "This creates more problems than it solves.",
+    "short_term_sentiment": 0.0534,
+    "long_term_sentiment": 0.06846666666666668,
+    "suggested_emojis": "\ud83e\udd14 \ud83d\udcad \ud83d\udcca",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 7,
+    "message_id": 1,
+    "message": "That's wonderful news!",
+    "short_term_sentiment": 0.6114,
+    "long_term_sentiment": 0.3967666666666667,
+    "suggested_emojis": "\ud83c\udf08 \ud83d\udd25 \ud83d\udc4d",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 7,
+    "message_id": 3,
+    "message": "I love this idea!",
+    "short_term_sentiment": 0.6696,
+    "long_term_sentiment": 0.5059,
+    "suggested_emojis": "\ud83d\udc4d \ud83d\udcaf \ud83d\udcaa",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 7,
+    "message_id": 5,
+    "message": "I'm really impressed with your progress!",
+    "short_term_sentiment": 0.7569,
+    "long_term_sentiment": 0.5895666666666667,
+    "suggested_emojis": "\ud83d\udcaa \ud83e\udd29 \ud83d\ude01",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 7,
+    "message_id": 7,
+    "message": "I love this idea!",
+    "short_term_sentiment": 0.6696,
+    "long_term_sentiment": 0.6124333333333334,
+    "suggested_emojis": "\ud83c\udf1f \ud83c\udf89 \ud83d\ude00",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 8,
+    "message_id": 1,
+    "message": "This approach has serious problems.",
+    "short_term_sentiment": -0.4588,
+    "long_term_sentiment": -0.1383333333333333,
+    "suggested_emojis": "\ud83d\udd14 \ud83d\ude2d \ud83d\ude24",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 8,
+    "message_id": 3,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.23571999999999999,
+    "suggested_emojis": "\ud83d\ude2d \ud83d\udc40 \ud83d\ude13",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 9,
+    "message_id": 1,
+    "message": "I'm really impressed with your progress!",
+    "short_term_sentiment": 0.7569,
+    "long_term_sentiment": 0.46951666666666664,
+    "suggested_emojis": "\ud83d\udc4f \ud83d\ude0a \ud83d\udcaa",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 9,
+    "message_id": 3,
+    "message": "I'm looking forward to our next meeting!",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.28171,
+    "suggested_emojis": "\ud83d\ude10 \ud83e\uddd0 \ud83d\ude44",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 9,
+    "message_id": 5,
+    "message": "I love this idea!",
+    "short_term_sentiment": 0.6696,
+    "long_term_sentiment": 0.41100666666666663,
+    "suggested_emojis": "\ud83c\udf08 \ud83d\udd25 \ud83d\ude0a",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 10,
+    "message_id": 1,
+    "message": "I'm concerned about the timeline.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\udd04 \ud83d\udcca \ud83d\ude44",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 10,
+    "message_id": 3,
+    "message": "We're facing significant challenges.",
+    "short_term_sentiment": 0.2732,
+    "long_term_sentiment": 0.16392,
+    "suggested_emojis": "\ud83e\udd28 \ud83d\uddd2\ufe0f \u23f1\ufe0f",
+    "sentiment_category": "slightly_positive"
+  },
+  {
+    "conversation_id": 11,
+    "message_id": 1,
+    "message": "We should consider all options.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\uddd2\ufe0f \ud83d\udd04 \ud83d\udc40",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 11,
+    "message_id": 3,
+    "message": "I see what you mean.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.05464,
+    "suggested_emojis": "\ud83d\uddd2\ufe0f \ud83e\udd37 \ud83d\udcdd",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 11,
+    "message_id": 5,
+    "message": "That's a possibility.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.03642666666666667,
+    "suggested_emojis": "\ud83d\udc40 \ud83d\udcbb \ud83d\udd04",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 12,
+    "message_id": 1,
+    "message": "Great job on the project!",
+    "short_term_sentiment": 0.6588,
+    "long_term_sentiment": 0.4204666666666667,
+    "suggested_emojis": "\u2728 \ud83d\ude0e \ud83d\udcaf",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 12,
+    "message_id": 3,
+    "message": "This is exactly what we needed!",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.25228,
+    "suggested_emojis": "\ud83d\udcad \ud83d\udcca \ud83d\udcbb",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 12,
+    "message_id": 5,
+    "message": "I'm so happy for you!",
+    "short_term_sentiment": 0.6468,
+    "long_term_sentiment": 0.38378666666666666,
+    "suggested_emojis": "\ud83d\ude0a \ud83d\udc4f \ud83d\ude04",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 13,
+    "message_id": 1,
+    "message": "Let's discuss this further.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\udcca \ud83d\udcad \ud83d\uddd2\ufe0f",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 13,
+    "message_id": 3,
+    "message": "Let's discuss this further.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.05464,
+    "suggested_emojis": "\ud83d\ude10 \ud83d\udccc \ud83e\udd28",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 14,
+    "message_id": 1,
+    "message": "This makes me so excited!",
+    "short_term_sentiment": 0.528,
+    "long_term_sentiment": 0.35506666666666664,
+    "suggested_emojis": "\ud83c\udf08 \ud83d\ude0a \ud83c\udf1f",
+    "sentiment_category": "positive"
+  },
+  {
+    "conversation_id": 14,
+    "message_id": 3,
+    "message": "Great job on the project!",
+    "short_term_sentiment": 0.6588,
+    "long_term_sentiment": 0.47656,
+    "suggested_emojis": "\ud83c\udf08 \ud83d\udcaf \ud83e\udd29",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 14,
+    "message_id": 5,
+    "message": "I'm really impressed with your progress!",
+    "short_term_sentiment": 0.7569,
+    "long_term_sentiment": 0.5700066666666667,
+    "suggested_emojis": "\ud83d\ude04 \ud83d\ude00 \ud83d\ude0e",
+    "sentiment_category": "very_positive"
+  },
+  {
+    "conversation_id": 15,
+    "message_id": 1,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.09983333333333333,
+    "suggested_emojis": "\ud83d\ude2b \ud83d\ude36 \ud83d\ude16",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 15,
+    "message_id": 3,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.21261999999999998,
+    "suggested_emojis": "\ud83d\ude28 \ud83d\udc4e \ud83d\ude29",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 15,
+    "message_id": 5,
+    "message": "This approach has serious problems.",
+    "short_term_sentiment": -0.4588,
+    "long_term_sentiment": -0.29467999999999994,
+    "suggested_emojis": "\ud83d\ude28 \ud83d\udc40 \ud83d\ude2d",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 16,
+    "message_id": 1,
+    "message": "I'm frustrated with the lack of progress.",
+    "short_term_sentiment": -0.4404,
+    "long_term_sentiment": -0.12913333333333335,
+    "suggested_emojis": "\ud83d\ude1f \ud83d\ude22 \ud83d\ude21",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 16,
+    "message_id": 3,
+    "message": "This isn't what I expected.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": -0.07748000000000002,
+    "suggested_emojis": "\ud83d\ude11 \ud83e\uddd0 \ud83d\udd04",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 17,
+    "message_id": 1,
+    "message": "I disagree with your assessment.",
+    "short_term_sentiment": -0.3818,
+    "long_term_sentiment": -0.09983333333333333,
+    "suggested_emojis": "\ud83d\ude20 \ud83d\ude30 \ud83d\ude13",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 17,
+    "message_id": 3,
+    "message": "I'm frustrated with the lack of progress.",
+    "short_term_sentiment": -0.4404,
+    "long_term_sentiment": -0.23606,
+    "suggested_emojis": "\ud83d\ude24 \ud83d\ude28 \ud83d\ude16",
+    "sentiment_category": "negative"
+  },
+  {
+    "conversation_id": 18,
+    "message_id": 1,
+    "message": "I need more information.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83e\udd28 \ud83d\udccc \ud83d\udcca",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 18,
+    "message_id": 3,
+    "message": "I'm not sure yet.",
+    "short_term_sentiment": -0.2411,
+    "long_term_sentiment": -0.041800000000000004,
+    "suggested_emojis": "\ud83d\ude11 \u23f1\ufe0f \ud83e\udd37",
+    "sentiment_category": "slightly_negative"
+  },
+  {
+    "conversation_id": 19,
+    "message_id": 1,
+    "message": "I see what you mean.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.09106666666666667,
+    "suggested_emojis": "\ud83d\ude11 \ud83d\udd14 \ud83e\udd14",
+    "sentiment_category": "neutral"
+  },
+  {
+    "conversation_id": 19,
+    "message_id": 3,
+    "message": "I see what you mean.",
+    "short_term_sentiment": 0.0,
+    "long_term_sentiment": 0.05464,
+    "suggested_emojis": "\ud83d\udcdd \u23f1\ufe0f \ud83d\udcbb",
+    "sentiment_category": "neutral"
+  }
+]

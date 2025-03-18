@@ -1,0 +1,22 @@
+{
+  "thresholds": {
+    "very_positive": 0.6,
+    "positive": 0.3,
+    "slightly_positive": 0.1,
+    "neutral_upper": 0.1,
+    "neutral_lower": -0.1,
+    "slightly_negative": -0.1,
+    "negative": -0.3,
+    "very_negative": -0.6
+  },
+  "weights": {
+    "short_term": 0.6,
+    "long_term": 0.3,
+    "context": 0.1
+  },
+  "analysis": {
+    "short_term_window": 1,
+    "long_term_window": 10,
+    "context_window": 20
+  }
+}
